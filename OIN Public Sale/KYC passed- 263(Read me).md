@@ -1,4 +1,4 @@
-#KYC passed- 263(Read me)
+# KYC passed- 263(Read me)
 
 ```
 Many of the rest are pending due to the KYC information they have provided
